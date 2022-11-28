@@ -1,4 +1,4 @@
-下载android 开发包地址：国内可用 https://github.com/android/ndk.wiki.git
+下载android 开发包地址：国内可用 https://github.com/android/ndk/wiki
 更多信息转到原作者项目，查找
 
 
